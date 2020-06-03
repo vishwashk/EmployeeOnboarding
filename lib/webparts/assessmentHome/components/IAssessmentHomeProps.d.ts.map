@@ -1,0 +1,1 @@
+{"version":3,"file":"IAssessmentHomeProps.d.ts","sourceRoot":"","sources":["../../../../src/webparts/assessmentHome/components/IAssessmentHomeProps.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAC5D,MAAM,WAAW,oBAAoB;IACnC,OAAO,EAAE,cAAc,CAAC;IACxB,WAAW,EAAE,MAAM,CAAC;IACpB,YAAY,EAAE,MAAM,CAAC;IACrB,cAAc,EAAC,MAAM,CAAC;IACtB,kBAAkB,EAAE,MAAM,CAAC;CAC5B"}
